@@ -145,12 +145,11 @@ End-to-End-Ride-Streaming-PySpark-dbt-Project
 * SQL Optimization
 * Data Quality and Governance
 
----
+  ## Project Outcomes
 
-## Future Enhancements
-
-* CI/CD Integration
-* Data Quality Monitoring
-* Automated Testing Framework
-* Power BI Dashboard Integration
-* Real-Time Business Alerts
+- Built an end-to-end ride-sharing analytics platform
+- Implemented Structured Streaming using Databricks
+- Developed Bronze, Silver, and Gold layers following Medallion Architecture
+- Implemented SCD Type 2 using dbt Snapshots
+- Built dimensional models and business KPI views
+- Utilized Jinja for dynamic SQL generation
