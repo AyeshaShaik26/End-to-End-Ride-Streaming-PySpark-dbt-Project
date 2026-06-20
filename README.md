@@ -12,7 +12,7 @@ The solution processes ride-sharing data through Bronze, Silver, and Gold layers
 
 ## Architecture
 
-![Architecture](architecture/architecture.png)
+[![Architecture](architecture/architecture.png)](https://github.com/AyeshaShaik26/End-to-End-Ride-Streaming-PySpark-dbt-Project/blob/main/Architecture/architecture_diagram.png)
 
 ---
 
