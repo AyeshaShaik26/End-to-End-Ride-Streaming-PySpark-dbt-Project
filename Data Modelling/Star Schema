@@ -1,0 +1,13 @@
+## Data Model
+
+FactTrips
+
+- FactTrips
+
+Dimension Tables
+
+- DimCustomers
+- DimDrivers
+- DimVehicles
+- DimLocations
+- DimPayments
